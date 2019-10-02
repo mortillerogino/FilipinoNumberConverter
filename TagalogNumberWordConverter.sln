@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagalogNumberWordConverter", "TagalogNumberWordConverter\TagalogNumberWordConverter.csproj", "{426CC585-D67A-4031-BD00-5E3AF0DC9E25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagalogNumberWordConverter.Tests", "TagalogNumberWordConverter.Tests\TagalogNumberWordConverter.Tests.csproj", "{1DFF7851-CBE8-4E45-AA0F-D21103257ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{426CC585-D67A-4031-BD00-5E3AF0DC9E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426CC585-D67A-4031-BD00-5E3AF0DC9E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426CC585-D67A-4031-BD00-5E3AF0DC9E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426CC585-D67A-4031-BD00-5E3AF0DC9E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DFF7851-CBE8-4E45-AA0F-D21103257ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFF7851-CBE8-4E45-AA0F-D21103257ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DFF7851-CBE8-4E45-AA0F-D21103257ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DFF7851-CBE8-4E45-AA0F-D21103257ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F7DF262-BB54-4D80-8FF0-BE5F9D0D94BD}
+	EndGlobalSection
+EndGlobal
